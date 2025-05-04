@@ -1,0 +1,18 @@
+# Python関連
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.egg-info/
+.env
+venv/
+
+# Jupyter関連
+.ipynb_checkpoints/
+
+#地理データ関連（例）
+gdf.pkl
+
+# データファイルを除外
+*.geojson
